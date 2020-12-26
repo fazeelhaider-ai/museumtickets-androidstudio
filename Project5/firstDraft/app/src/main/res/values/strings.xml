@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Meuseum App</string>
+    <string name="calculate_ticket_price">Calculate Ticket Price</string>
+    <string name="adult_25">adult : $25</string>
+    <string name="senior_17">senior : $17</string>
+    <string name="student_12">student : $12</string>
+    <string name="desc">ImageButton</string>
+    <string name="ticket_price">Ticket Price :</string>
+    <string name="salex_tax">Salex Tax :</string>
+    <string name="ticket_total">Ticket Total :</string>
+
+
+</resources>
